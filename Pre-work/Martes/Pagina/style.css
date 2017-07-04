@@ -1,0 +1,20 @@
+.container{ 
+  text-align:center
+}
+.container h1{
+    color: green;
+  }
+.container h1{
+    font-family: tahoma;
+  }
+ #nombres{
+    color: blue;
+    font-weight: bold;
+  }
+  #nombres1{
+    color: pink;
+    font-weight: italic;
+  }
+  #nombres2{
+    color: purple;
+  }
