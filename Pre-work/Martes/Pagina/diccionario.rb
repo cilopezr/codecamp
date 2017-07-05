@@ -7,6 +7,6 @@ def user
  			p "ingresa otra palabra"
   			text=gets.chomp
 		end
-p "Numero de entradas del usuario #{contador}"
+"Numero de entradas del usuario #{contador}"
 end
 p user 

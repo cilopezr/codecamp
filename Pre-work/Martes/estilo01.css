@@ -1,0 +1,57 @@
+
+body {
+  font-family: eczar;
+  width: 90%;
+  margin: 35px auto;
+  background-color: #fff;
+  padding: 40px 40px;
+  box-shadow: 0 0 20px #999;
+}
+
+html{
+  background-color: whitesmoke;
+}
+body {
+  background: white;
+}
+
+#alig { 
+  text-align:center;
+}
+#alg { 
+  text-align:center;
+  color: dimgray;
+}
+.container { 
+ font-family: palatino;
+}
+
+#qt {
+	text-align:center;
+	font-style: italic;
+	color: darkslategrey;
+}
+#ref {
+	text-align:right;
+}
+#just {
+	text-align: justify;
+}
+div.img{
+  display:table;
+}
+div.img img{
+ margin:0;
+ padding:0;
+}
+div.img span{
+ line-height:normal;
+ font-size:11px;
+ display:table-caption;
+ margin:0;
+ background:#646464;
+ color:white;
+ font-style:italic;
+ padding:5px;
+ text-align:center;
+}
